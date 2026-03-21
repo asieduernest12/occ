@@ -17,7 +17,7 @@
     "editor:watch-react": "npm --prefix apps/editor run watchreact"
   },
   "dependencies": {
-    "cobe": "^0.6.5",
+    "cobe": "^2.0.1",
     "framer-motion": "^12.34.2"
   },
   "license": "Apache-2.0"
